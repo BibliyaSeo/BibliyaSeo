@@ -1,11 +1,11 @@
 <div align="center">
   
-## :sparkles: Frontend Developer :sparkles:
+##  Frontend Developer
 <br />
 
 <img src="https://blogfiles.pstatic.net/MjAyMDA3MDFfMTE1/MDAxNTkzNTMzOTg4MzUy.zsD2QdDIzRuJ6GQB_IBxVl_FfmU_SDITLF72kVMOOg0g.DQJjAgcbLjRsaGl36ZtbVZs5sCUlNvaXBRLViDn_x_4g.GIF.hjin170/IMG_5350.GIF" />
 
-## My Skills 🔨
+## :sparkles: Skills :sparkles:
 <div style="display: flex">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white" />
